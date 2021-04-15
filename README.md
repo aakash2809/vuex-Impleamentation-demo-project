@@ -1,4 +1,4 @@
-# vlog
+# vuex-impleamentation-demo
 
 ## Project setup
 ```
